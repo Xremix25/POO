@@ -31,7 +31,7 @@ public class Teste {
           jogador.getNumGolos();
            
           System.out.println(jogador.toString());
-    
+        System.out.println("");
     }
 }
         
